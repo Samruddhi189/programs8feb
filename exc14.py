@@ -19,4 +19,3 @@ Alright, so you said {likes} about liking me.
 You live in {lives}. Not sure where that is.
 And you have a {computer} computer. Nice.""") 
 
-#We make a variable, prompt, that is set to the prompt we want, and we give that to input instead of typing it over and over. Now if we want to make the prompt something else, we just change it in this one spot and rerun the script. Very handy.
